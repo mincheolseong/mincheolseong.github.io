@@ -17,11 +17,5 @@ Research: **Constrained Reinforcement Learning (CMDP), Zero-shot Adaptation**
 </div>
 
 ## Highlights
-- Zeroshot-enhanced actor–critic (RCPOZeroshot): staged updates & large-batch rollouts  
-- PPO-Lag / REINFORCE baselines with GAE; safety constraints in CMDP  
-- OmniSafe integrations; HPRC (Olympus/Grace) experiments
 
-## News
-- [2025-09] Preparing MobiHoc 2025 trip (Rice Univ.).  
-- [2025-08] Verified Zeroshot in PPO; moving to RCPO.
 
