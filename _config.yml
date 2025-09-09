@@ -1,4 +1,5 @@
 title: "Mincheol Seong"
 description: "PhD Student, Texas A&M University"
 theme: jekyll-theme-cayman   
-name: "Mincheol Seong"
+github:
+  is_project_page: false
