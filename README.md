@@ -1,1 +1,2 @@
-# mincheolseong.github.io
+# Mincheol Seong
+Welcome to my personal website
