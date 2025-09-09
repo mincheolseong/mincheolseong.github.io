@@ -86,4 +86,83 @@
     <aside class="sidebar">
       <img class="avatar" src="assets/img/profile.jpg" alt="profile">
       <div class="name">Mincheol Seong</div>
-      <div c
+      <div class="subtitle">PhD student @ Texas A&amp;M University</div>
+
+      <ul class="side-list">
+        <li><span class="icon"></span> College Station, TX, USA</li>
+        <li><span class="icon"></span> <a href="mailto:YOUR_EMAIL">Email</a></li>
+        <li><span class="icon"></span> <a href="https://github.com/mincheolseong">GitHub</a></li>
+        <li><span class="icon"></span> <a href="https://scholar.google.com/">Google Scholar</a></li>
+        <li><span class="icon"></span> <a href="https://www.linkedin.com/">LinkedIn</a></li>
+        <li><span class="chip">Wireless Networks · RL</span></li>
+      </ul>
+    </aside>
+
+    <!-- Main content -->
+    <main class="section-grid">
+      <div class="card">
+        <p>Hi! I’m Mincheol, a Ph.D. student at Texas A&amp;M University advised by <a href="#">Prof. I-Hong Hou</a>.  
+        My research interests are in wireless networks and reinforcement learning, focusing on constrained RL (CMDP), zero-shot adaptation, and actor–critic methods.</p>
+      </div>
+
+      <div class="card" id="news">
+        <h2>🔥 News</h2>
+        <ul class="bullets">
+          <li><span class="pill">Aug 2025</span> Preparing for <strong>MobiHoc 2025</strong> (Rice University, Houston).</li>
+          <li><span class="pill">Jul 2025</span> Verified zero-shot updates in PPO; moving to actor–critic (RCPO).</li>
+        </ul>
+      </div>
+
+      <div class="card" id="publications">
+        <h2>📚 Publications</h2>
+        <ul class="bullets pub">
+          <li><a href="#">Understanding the Fundamental Trade-Off Between Age of Information and Throughput in Unreliable Wireless Networks</a> — accepted to MobiHoc 2025.</li>
+          <!-- Add more items -->
+        </ul>
+      </div>
+
+      <div class="card" id="honors">
+        <h2>🏅 Honors and Awards</h2>
+        <ul class="bullets">
+          <li>2024 National Scholarship (Graduate)</li>
+        </ul>
+      </div>
+
+      <div class="card" id="education">
+        <h2>🎓 Education</h2>
+        <ul class="bullets">
+          <li><strong>Texas A&amp;M University</strong>, Ph.D., 2024–Present</li>
+          <li><strong>[Prev Univ]</strong>, M.S., 2021–2024</li>
+          <li><strong>[Prev Univ]</strong>, B.S., 2017–2021</li>
+        </ul>
+      </div>
+
+      <div class="card" id="talks">
+        <h2>🎤 Invited Talks</h2>
+        <p class="muted">(Coming soon…)</p>
+      </div>
+
+      <div class="card" id="internships">
+        <h2>💼 Internships</h2>
+        <ul class="bullets">
+          <li>2023.07–2024.01, [Company], [City].</li>
+        </ul>
+      </div>
+
+      <div class="card" id="contact">
+        <h2>📬 Contact</h2>
+        <ul class="bullets">
+          <li>Email: <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a></li>
+          <li>GitHub: <a href="https://github.com/mincheolseong">mincheolseong</a></li>
+          <li>Office: WEB 111, Texas A&amp;M University</li>
+        </ul>
+      </div>
+    </main>
+  </div>
+
+  <footer>
+    © <span id="y"></span> Mincheol Seong · Hosted on GitHub Pages
+  </footer>
+  <script>document.getElementById('y').textContent=new Date().getFullYear()</script>
+</body>
+</html>
